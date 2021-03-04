@@ -1,0 +1,19 @@
+{
+  "name": "auditservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adi Benbenishty",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "dateformat": "^4.5.1",
+    "elasticsearch": "^16.7.2",
+    "express": "^4.17.1",
+    "get-json": "^1.0.1"
+  }
+}
